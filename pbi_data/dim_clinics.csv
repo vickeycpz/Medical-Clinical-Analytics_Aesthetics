@@ -1,0 +1,7 @@
+clinic_id,clinic_name,city,state,tier,monthly_rent_usd,capacity_chairs,opened_date,years_open,tier_label
+C01,Glow & Co – Midtown,New York,NY,premium,22000,6,,,Premium
+C02,Pure Skin Westside,Los Angeles,CA,premium,28000,8,,,Premium
+C06,Clarity Skin & Wellness,Miami,FL,premium,20000,7,,,Premium
+C03,Radiance Medical Spa,Chicago,IL,standard,14000,5,,,Standard
+C04,Luminary Aesthetics,Houston,TX,standard,12000,5,,,Standard
+C05,Revive MedSpa Austin,Austin,TX,standard,9500,4,,,Standard

@@ -1,0 +1,11 @@
+treatment_id,treatment_name,category,base_price,duration_min
+T01,Botox,injectables,450,30
+T02,Dermal Fillers,injectables,650,45
+T03,Laser Hair Removal,laser,300,60
+T04,IPL Photofacial,laser,350,60
+T05,Chemical Peel,skin_care,180,45
+T06,Microneedling,skin_care,280,60
+T07,HydraFacial,skin_care,200,75
+T08,CoolSculpting,body_contouring,800,90
+T09,Kybella,injectables,550,30
+T10,Morpheus8,laser,900,90
